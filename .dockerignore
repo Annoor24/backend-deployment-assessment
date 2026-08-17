@@ -1,0 +1,7 @@
+.git
+.gitignore
+terraform/
+evidence/
+README.md
+Dockerfile
+docker-compose.yml
